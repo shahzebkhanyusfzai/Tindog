@@ -1,0 +1,136 @@
+.navbar-brand {
+    font-size: 28px;
+  }
+  
+body {
+font-family: "Ubuntu";
+}
+
+h1{
+    font-family: "montserrat";
+}
+
+#title {
+    background-color: #ff4c68;
+    size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+    padding-bottom: 0px;
+    height: 830px;
+
+}
+
+.container-fluid{
+    padding-right:5% ;
+    padding-left: 3%;
+    padding-bottom:5% ;
+    padding-top: 2%;
+}
+
+
+/* Navigation Bar */
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.navbar{
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item{
+
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family: "montserrat";
+    font-size: 1.2rem;
+
+}
+
+.download-button{
+    margin: 5% 5% 5% 0%;
+}
+
+.mobile-image{
+    width: 60%;
+    transform: rotate(35deg);
+}
+
+.featurediv{
+    padding: 10% 2% 2% 1%;
+}
+
+
+.myfonts{
+    font-size: 5em;
+    padding-bottom: 5%;
+    color: #ff4c68;
+}
+
+.feature-cont{
+
+    color: gray;
+}   
+
+.feature-h3{
+    font-weight: bold;
+}
+
+
+.testimonial-sec{
+    padding: 5% 0 0 3%;
+    background-color: #ff4c68;
+    text-align: center;    
+    color: #fff;
+
+}
+
+.dog-image{
+    border-radius: 50%;
+    width: 100px;
+    padding-top: 3%;
+
+}
+     
+.press-sec{
+
+    padding: 5%;
+}
+
+.card{
+    text-align: center;
+    justify-content: center;
+    width: 1200px;
+    padding: 2% 0;
+    background-color: #fff;
+    display: block;
+    border-right-width: 0px;
+}
+
+#cta{
+
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+#footer{
+
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+    padding-bottom: 1%;
+}
+
+#features{
+    background-color: #fff;
+    position: relative;
+}
+
+.mobile-image{
+    position: relative;
+   
+}
